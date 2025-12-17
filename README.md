@@ -10,7 +10,7 @@
   <a href="https://portfolio-one-delta-24.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio">
   </a>
-  <a href="mailto:aniellocirillo1999@gmail.com">
+  <a href="mailto:aniellocirillo04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/aniello-cirillo-167991335/">
