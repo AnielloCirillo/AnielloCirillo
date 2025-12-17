@@ -4,7 +4,7 @@
   
   <p>
     Based in <b>Napoli, Italy</b> 🇮🇹<br>
-    Passionate about backend systems, digital innovation, and problem-solving.
+    Passionate about backend systems, data analysis, and digital innovation.
   </p>
 
   <a href="https://portfolio-one-delta-24.vercel.app/">
@@ -28,7 +28,7 @@
 - 💼 **Experience:**
   - Backend Developer @ **Unione degli Studenti Salerno**.
   - Hardware & Software Technician @ **Service & Assistance**.
-- 🔭 **Current Focus:** Enhancing backend scalability and exploring new dev tools.
+- 🔭 **Current Focus:** Specializing in **Data Analysis**, **GIS (Geographic Information Systems)**, and **Web Automation**.
 
 ---
 
@@ -39,13 +39,21 @@
 **Core Development**<br>
 <img src="https://img.shields.io/badge/Java_SE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java SE"/>
 <img src="https://img.shields.io/badge/Java_EE-F89820?style=for-the-badge&logo=jakartaee&logoColor=white" alt="Java EE"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 
 <br>
 
-**Web & Data**<br>
+**Data Science & Automation** (New!)<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+
+<br>
+
+**Web & Database**<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -69,8 +77,8 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎬 RECMOP** | A content-based **movie recommendation system** using Machine Learning preferences. | `Python` `Streamlit` `ML` |
-| **✂️ HairBeautyStore** | A complete management and **e-commerce solution** for beauty salons. | `Java` `HTML` `CSS` |
+| **🌍 RECMOP** | **Advanced Spatial Analysis Tool**. Automates data collection and performs complex GIS calculations (e.g., solar potential) using geospatial libraries. | `Python` `Pandas` `GeoPandas` `Playwright` |
+| **✂️ HairBeautyStore** | A complete management and **e-commerce solution** designed for beauty salons and barbers. | `Java` `HTML` `CSS` |
 | **🏍️ MotoGearHub** | An **e-commerce platform** dedicated to motorcycle gear and accessories. | `PHP` `JS` `SQL` |
 
 ---
