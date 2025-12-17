@@ -26,8 +26,8 @@
 
 - 🎓 **Education:** Bachelor's Degree in Computer Science from the University of Salerno.
 - 💼 **Experience:**
-  - Backend Developer @ **Unione degli Studenti Salerno**.
-  - Hardware & Software Technician @ **Service & Assistance**.
+  - Backend Developer @ **University of Salerno**.
+  - Hardware & Software Technician @ **Computer Experience**.
 - 🔭 **Current Focus:** Specializing in **Data Analysis**, **GIS (Geographic Information Systems)**, and **Web Automation**.
 
 ---
