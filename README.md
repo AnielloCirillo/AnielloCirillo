@@ -7,7 +7,7 @@
     Passionate about backend systems, data analysis, and digital innovation.
   </p>
 
-  <a href="https://portfolio-one-delta-24.vercel.app/">
+  <a href="https://aniellocirillo.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio">
   </a>
   <a href="mailto:aniellocirillo04@gmail.com">
@@ -45,10 +45,12 @@
 
 <br>
 
-**Data Science & Automation**<br>
+**Data Science & GIS**<br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas"/>
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+<img src="https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
 
 <br>
